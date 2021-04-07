@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 5", "Homework 5\Homework 5.csproj", "{4E7066A9-AA2B-4EBD-9B79-F29CC0145A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{6C3208E5-36C5-4A51-8F54-367DDE04E08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "ConsoleApp1\Dictionary.csproj", "{14074A8B-B33B-4B4C-829C-9B306834AAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7066A9-AA2B-4EBD-9B79-F29CC0145A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7066A9-AA2B-4EBD-9B79-F29CC0145A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7066A9-AA2B-4EBD-9B79-F29CC0145A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7066A9-AA2B-4EBD-9B79-F29CC0145A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3208E5-36C5-4A51-8F54-367DDE04E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3208E5-36C5-4A51-8F54-367DDE04E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3208E5-36C5-4A51-8F54-367DDE04E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3208E5-36C5-4A51-8F54-367DDE04E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14074A8B-B33B-4B4C-829C-9B306834AAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14074A8B-B33B-4B4C-829C-9B306834AAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14074A8B-B33B-4B4C-829C-9B306834AAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14074A8B-B33B-4B4C-829C-9B306834AAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87870F91-7833-44A7-918E-F06FC493BA56}
+	EndGlobalSection
+EndGlobal
